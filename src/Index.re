@@ -1,1 +1,1 @@
-ReactDOMRe.renderToElementWithId(<Home name="John" />, "root");
+ReactDOMRe.renderToElementWithId(<Home/>, "root");
